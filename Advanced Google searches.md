@@ -13,6 +13,7 @@ Advanced Google search allows you to filter your search and thus obtain much mor
 
 ## Commands
 - Return search results related to the targeted keyword from the targeted site.
+  
   ``targeted_keyword site:targeted-site.com``
   
 - targeted_keyword filetype:targeted_type
