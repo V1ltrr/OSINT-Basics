@@ -5,5 +5,7 @@ Advanced Google search allows you to filter your search and thus obtain much mor
 - targeted_keyword site:targeted-site.com
   
   It will only return search results related to the targeted keyword from the targeted site.
+  
 - targeted_keyword filetype:targeted_type
+
   It will only return search results related to the targeted keyword into your targeted file type.
