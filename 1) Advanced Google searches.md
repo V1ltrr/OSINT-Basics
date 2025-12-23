@@ -6,7 +6,7 @@ All these commands can be added together using the prefix “OR” between each 
 
 
 ## Commands
-``targeted_keyword site:targeted-site.com`` ― Return search results related to the targeted keyword from the targeted site
+- ``targeted_keyword site:targeted-site.com`` ― Return search results related to the targeted keyword from the targeted site
   
 
 - Return search results related to the targeted keyword into your targeted file type.
