@@ -7,29 +7,29 @@ These methods are commonly used in OSINT investigations to verify identities, de
 ## General reverse image search engines
 Broad search engines useful as a first step to locate reused profile pictures across multiple platforms.
 
-- site: images.google.com ― find websites, social networks, and articles where a person’s photo appears  
+- images.google.com ― find websites, social networks, and articles where a person’s photo appears  
 
-- site: yandex.com/images ― powerful facial matching, often returns social media profiles and less-indexed websites  
+- yandex.com/images ― powerful facial matching, often returns social media profiles and less-indexed websites  
 
-- site: bing.com/images ― locate similar face images and linked web pages for cross-verification  
+- bing.com/images ― locate similar face images and linked web pages for cross-verification  
 
 ---
 
 ## Face recognition focused tools
 Specialized platforms designed specifically to identify people using facial recognition.
 
-- site: pimeyes.com ― find appearances of a person across the web using facial recognition  
+- pimeyes.com ― find appearances of a person across the web using facial recognition  
 
-- site: facecheck.id ― identify people across multiple public sources and indexed databases  
+- facecheck.id ― identify people across multiple public sources and indexed databases  
 
-- site: socialcatfish.com ― verify identities and detect fake or impersonated profiles  
+- socialcatfish.com ― verify identities and detect fake or impersonated profiles  
 
 ---
 
 ## Exact match & image reuse detection
 Tools useful for detecting stolen or recycled profile pictures.
 
-- site: tineye.com ― track exact matches and identify the earliest publication of an image  
+- tineye.com ― track exact matches and identify the earliest publication of an image  
 
 
 ## Techniques
