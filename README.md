@@ -1,3 +1,4 @@
+![Icon](OSINT_Icon.png)
 <h1 align="center">  OSINT-Basics </h1>
 
 <p align="center">
